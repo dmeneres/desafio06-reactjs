@@ -1,0 +1,81 @@
+[{
+  "name": "europe",
+  "description": "Europe is a continent, also recognised as part of Eurasia, located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. Comprising the westernmost peninsulas of the continental landmass of Eurasia, it shares the continental landmass of Afro-Eurasia with both Asia and Africa.",
+  "countries": "44",
+  "languages": "125",
+  "cities": "32",
+  "citiesList": [
+    {"city": "moscow", "country": "russia"},
+    {"city": "london", "country": "uk"},
+    {"city": "saintPetersburg", "country": "russia"},
+    {"city": "berlin", "country": "germany"},
+    {"city": "madrid", "country": "spain"},
+    {"city": "kyiv", "country": "ukraine"},
+    {"city": "rome", "country": "italy"},
+    {"city": "bucharest", "country": "romania"}
+  ]
+},{
+  "name": "america",
+  "description": "The Americas, which are sometimes collectively called America, are a landmass comprising the totality of North and South America. The Americas make up most of the land in Earth's Western Hemisphere and comprise the New World.",
+  "countries": "35",
+  "languages": "17",
+  "cities": "50",
+  "citiesList": [
+    {"city": "saoPaulo", "country": "brazil"},
+    {"city": "lima", "country": "peru"},
+    {"city": "mexicoCity", "country": "mexico"},
+    {"city": "newYork", "country": "usa"},
+    {"city": "bogota", "country": "colombia"},
+    {"city": "rioDeJaneiro", "country": "brazil"},
+    {"city": "santiago", "country": "chile"},
+    {"city": "losAngeles", "country": "usa"}
+  ]
+},{
+  "name": "asia",
+  "description": "Asia is Earth's largest and most populous continent, located primarily in the Eastern and Northern Hemispheres. It shares the continental landmass of Eurasia with the continent of Europe, and the continental landmass of Afro-Eurasia with Africa and Europe. Asia covers an area of 44,579,000 square kilometres (17,212,000 sq mi), about 30% of Earth's total land area and 8.7% of the Earth's total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Its 4.7 billion people constitutes roughly 60% of the world's population.",
+  "countries": "48",
+  "languages": "72",
+  "cities": "104",
+  "citiesList": [
+    {"city": "shangai", "country": "china"}, 
+    {"city": "karachi", "country": "pakistan"}, 
+    {"city": "beijing", "country": "china"},
+    {"city": "mumbai", "country":"india"}, 
+    {"city": "delhi", "country": "india"}, 
+    {"city": "istanbul", "country": "turkey"}, 
+    {"city": "dhaka", "country": "bangladesh"}, 
+    {"city": "tokyo", "country": "japan"}
+  ]
+},{
+  "name": "africa",
+  "description": "Africa is the world's second-largest and second-most populous continent, after Asia in both cases. At about 30.3 million km2 (11.7 million square miles) including adjacent islands, it covers 6% of Earth's total surface area and 20% of its land area. With 1.3 billion people as of 2018, it accounts for about 16% of the world's human population. Africa's population is the youngest amongst all the continents: the median age in 2012 was 19.7, when the worldwide median age was 30.4.",
+  "countries": "54",
+  "languages": "70",
+  "cities": "55",
+  "citiesList": [
+    {"city": "kinshasa", "country": "congo"},
+    {"city": "lagos", "country": "nigeria"},
+    {"city": "cairo", "country": "egypt"},
+    {"city": "giza", "country": "egypt"},
+    {"city": "darEsSalaam", "country": "tanzania"},
+    {"city": "khartoum", "country": "sudan"},
+    {"city": "johannesburg", "country": "southAfrica"},
+    {"city": "abidjan", "country": "ivoryCoast"}
+  ]
+},{
+  "name": "oceania",
+  "description": "Oceania is a geographic region that includes Australasia, Melanesia, Micronesia and Polynesia. Spanning the Eastern and Western Hemispheres, Oceania is estimated to have a land area of 8,525,989 square kilometres (3,291,903 sq mi) and a population of over 41 million.",
+  "countries": "14",
+  "languages": "8",
+  "cities": "6",
+  "citiesList": [
+    {"city": "sydney", "country": "australia"},
+    {"city": "melbourne", "country": "australia"},
+    {"city": "brisbane", "country": "australia"},
+    {"city": "perth", "country": "australia"},
+    {"city": "auckland", "country": "newZealand"},
+    {"city": "adelaide", "country": "australia"},
+    {"city": "goldCoast", "country": "australia"},
+    {"city": "newcastleMaitland", "country": "australia"}
+  ]
+}]
